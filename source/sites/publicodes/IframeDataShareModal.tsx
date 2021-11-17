@@ -42,7 +42,7 @@ export default ({ data }) => {
 	const text = (
 		<div>
 			<p>
-				En cliquant sur le bouton Accepter, vous nous autoriser à communiquer le
+				En cliquant sur le bouton Accepter, vous nous autorisez à communiquer le
 				résumé de votre test d'empreinte climat au site {parent}.
 			</p>
 			<p>
